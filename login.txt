@@ -1,0 +1,12 @@
+Admin
+dev-admin@mail.com
+12345678
+
+User
+dev-user@mail.com
+
+
+12345678
+Gender - female
+Birthday - 2002,-----
+Age - 2024-2002 = 22
